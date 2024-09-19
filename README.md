@@ -52,6 +52,11 @@
             </ul>
         </section>
     </main>
+    <footer class="container">
+        <p>Connect with me: <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> | <a href="https://github.com/yourprofile" target="_blank">GitHub</a></p>
+    </footer>
+</body>
+</html>
 
     <footer class="container">
         <p>Connect with me: <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> | <a href="https://github.com/yourprofile" target="_blank">GitHub</a></p>
